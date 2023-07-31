@@ -26,7 +26,7 @@ namespace HttpSideCar
               .CircuitBreakerAsync(2, TimeSpan.FromMinutes(1));
         }
 
-        public async Task<HttpResponseMessage> SendRequest(HttpRequestMessage request)
+        public virtual async Task<HttpResponseMessage> SendRequest(HttpRequestMessage request)
         {
             if (_remainingLimit <= 0)
             {
