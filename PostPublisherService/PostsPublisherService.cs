@@ -1,5 +1,4 @@
-﻿using System.Text.Json;
-using EventBus;
+﻿using EventBus;
 using HttpSideCar;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
