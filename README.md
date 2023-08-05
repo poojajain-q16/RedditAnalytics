@@ -14,7 +14,8 @@ At this point following aggregates are calculated:
 
 ## Architecture Diagram:
 
-![RedditStatistics](https://github.com/poojajain-q16/RedditStatsPrivate/assets/138339043/d40eee2f-fb4b-4425-ae00-339c95364d3f)
+![RedditStatistics (1)](https://github.com/poojajain-q16/RedditAnalytics/assets/138339043/48e4f7d2-e453-44f6-b541-6677f9f02c90)
+
 
 
 ## Design Approach
